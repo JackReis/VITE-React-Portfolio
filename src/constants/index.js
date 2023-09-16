@@ -247,8 +247,8 @@ const projects = [
       },
     ],
     image: nestshot,
-    repo: 'https://github.com/JackReis/Ohana',
-    demo: 'https://jack.digital/projects/kahuna/',
+    repo: 'https://github.com/android/nowinandroid',
+    demo: 'https://jack.digital/projects/google/',
   },
   {
     id: 'project-3',
