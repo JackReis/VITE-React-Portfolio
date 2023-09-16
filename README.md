@@ -1,8 +1,8 @@
 # Portfolio Template
 
-Originally 
+Originally inspired by
 
-https://github.com/shaqdeff/Portfolio-Template/assets/92020713/eed76a82-e59d-440b-a04c-a2dc00a508b7
+https://github.com/shaqdeff/Portfolio-Template/
 
 
 ## License and Attribution
