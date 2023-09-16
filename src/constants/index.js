@@ -269,8 +269,8 @@ const projects = [
       },
     ],
     image: pegasusshot,
-    repo: 'https://github.com/JackReis/11ty-landing-page',
-    demo: 'https://incandescent-smakager-9dda4b.netlify.app/',
+    repo: 'https://jack.digital/projects/kahuna/',
+    demo: 'https://jack.digital/projects/kahuna/',
   },
   {
     id: 'project-4',
