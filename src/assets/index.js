@@ -42,58 +42,112 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
+import armory from './company/armory.png';
+import armorywhite from './company/armorywhite.png';
+import corteva from './company/corteva.png';
+import cortevawhite from './company/cortevawhite.png';
+import ebay from './company/ebay.png';
+import ebaywhite from './company/ebaywhite.png';
+import facebook from './company/facebook.png';
+import facebookwhite from './company/facebookwhite.png';
+import meta from './company/meta.png';
+import metawhite from './company/metawhite.png';
+import google from './company/google.png';
+import googlewhite from './company/googlewhite.png';
+import kahuna from './company/kahuna.png';
+import kahunawhite from './company/kahunawhite.png';
+import salesforce from './company/salesforce.png';
+import salesforcewhite from './company/salesforcewhite.png';
+import sendgrid from './company/sendgrid.png';
+import sendgridwhite from './company/sendgridwhite.png';
+import tastingroom from './company/tastingroom.png';
+import tastingroomwhite from './company/tastingroomwhite.png';
+import unicorn from './company/unicorn.png';
+import unicornwhite from './company/unicornwhite.png';
 
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
 import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
+import nestshot from './projects/nestshot.png';
+import novelshot from './projects/novelshot.png';
+import pegasusshot from './projects/pegasusshot.png';
+import tastingrmshot from './projects/tastingrmshot.png';
+import sendgridshot from './projects/sendgridshot.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
 export {
-  bwmap,
-  nairobi,
-  whiteabstract,
-  worldmap,
-  logo,
-  logotext,
-  shaq,
+  armory,
+  armorywhite,
   backend,
-  ux,
-  frontend,
-  prototyping,
-  github,
+  bwmap,
   close,
+  corteva,
+  cortevawhite,
+  coverhunt,
+  css,
+  dcc,
+  docker,
   download,
   downloadHover,
-  pineapple,
-  pineappleHover,
-  menu,
-  resume,
-  send,
-  sendHover,
-  css,
-  docker,
+  ebay,
+  ebaywhite,
+  facebook,
+  facebookwhite,
   figma,
+  frontend,
   git,
+  github,
+  google,
+  googlewhite,
   graphql,
   html,
   javascript,
-  nodejs,
-  postgresql,
-  rubyrails,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
+  kahuna,
+  kahunawhite,
+  kelhel,
   komikult,
   leaderboard,
+  logo,
+  logotext,
   math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
+  menu,
+  meta,
+  metawhite,
   microverse,
+  movie,
+  nairobi,
+  nodejs,
+  novelshot,
+  nestshot,
+  nyeusi,
+  pegasusshot,
+  pineapple,
+  pineappleHover,
+  postgresql,
+  prototyping,
+  reactjs,
+  redux,
+  resume,
+  rubyrails,
+  salesforce,
+  salesforcewhite,
+  send,
+  sendgrid,
+  sendgridwhite,
+  sendgridshot,
+  sendHover,
+  shaq,
+  space,
+  tailwind,
+  tastingroom,
+  tastingroomwhite,
+  tastingrmshot,
+  typescript,
+  unicorn,
+  unicornwhite,
+  ux,
+  whiteabstract,
+  worldmap,
 };

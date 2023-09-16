@@ -42,12 +42,11 @@ const Hero = () => {
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase">
-                Shaquille
+                Jack
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+              I craft valuable, intuitive, and enjoyable digital product experiences for my clients and their communities.<br className="sm:block hidden" />
             </p>
           </div>
           <div
@@ -86,8 +85,8 @@ const Hero = () => {
             className="absolute bottom-0 ml-[50vw] 
             lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
             sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
-            src={shaq}
-            alt="shaquille"
+            // src={shaq}
+            // alt="shaquille"
           />
         </div>
       </section>

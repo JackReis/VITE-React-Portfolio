@@ -27,6 +27,30 @@ import {
   dcc,
   kelhel,
   microverse,
+  armory,
+  armorywhite,
+  corteva,
+  cortevawhite,
+  ebay,
+  ebaywhite,
+  facebookwhite,
+  google,
+  googlewhite,
+  kahuna,
+  kahunawhite,
+  sendgrid,
+  sendgridwhite,
+  salesforce,
+  salesforcewhite,
+  tastingroom,
+  tastingroomwhite,
+  unicorn,
+  unicornwhite,
+  novelshot,
+  nestshot,
+  pegasusshot,
+  sendgridshot,
+  tastingrmshot,
 } from '../assets';
 
 export const navLinks = [
@@ -97,10 +121,6 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
     name: 'graphql',
     icon: graphql,
   },
@@ -115,56 +135,87 @@ const technologies = [
   {
     name: 'figma',
     icon: figma,
-  },
-  {
-    name: 'docker',
-    icon: docker,
-  },
+  }
 ];
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
+    title: 'Principal Product Designer · Lead, Data Visualization',
+    company_name: 'Corteva Agriscience',
+    icon: cortevawhite,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'Aug 2021 - Mar 2023',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
-    icon: microverse,
+    title: 'Interaction Designer IV',
+    company_name: 'Google',
+    icon: googlewhite,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Jan 2020 - Jun 2021',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
-    icon: kelhel,
+    title: 'Product Designer',
+    company_name: 'Facebook',
+    icon: facebookwhite,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'Jul 2018 - Aug 2018',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
+    title: 'Senior UX Designer',
+    company_name: 'Armory',
+    icon: armorywhite,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Apr 2018 - Jun 2018',
   },
+  {
+    title: 'Senior UX Designer · Labs',
+    company_name: 'SendGrid',
+    icon: sendgridwhite,
+    iconBg: '#333333',
+    date: 'Jun 2017 - Mar 2018',
+  },
+  {
+    title: 'Senior UX Designer',
+    company_name: 'Kahuna',
+    icon: kahunawhite,
+    iconBg: '#333333',
+    date: 'Jan 2015 - Dec 2016',
+  },
+  {
+    title: 'UX Lead, Lead UX Designer',
+    company_name: 'Salesforce',
+    icon: salesforcewhite,
+    iconBg: '#333333',
+    date: 'Oct 2014 - Dec 2014',
+  },
+  {
+    title: 'Lead Product Designer',
+    company_name: 'eBay for Charity, eBay Careers',
+    icon: ebaywhite,
+    iconBg: '#333333',
+    date: 'Jan 2013 - Oct 2014',
+  },
+  {
+    title: 'UX Designer',
+    company_name: 'TastingRoom.com',
+    icon: tastingroomwhite,
+    iconBg: '#333333',
+    date: 'Jan 2011 - Dec 2012',
+  }
 ];
-
+  
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Novel',
+    description: 'TipTap based editor',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'TipTap',
         color: 'green-text-gradient',
       },
       {
@@ -172,22 +223,44 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    image: novelshot,
+    repo: 'https://github.com/JackReis/novel',
+    demo: 'https://novel-rouge.vercel.app/',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'Google Home App',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'Google Home App interaction patterns on iOS, Android, Nest Hub and Nest Hub Max devices, including voice commands, stereo speaker pair setup and adaptive assistant volume configuration. Cross-platform (and cross-organizational) collaboration to improve discovery of media types like Meditations and Podcasts on Google smart home devices. ',
     tags: [
       {
-        name: 'react',
+        name: 'AfterEffects',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'iOS',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Material Design System',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: nestshot,
+    repo: 'https://github.com/JackReis/Ohana',
+    demo: 'https://jack.digital/projects/kahuna/',
+  },
+  {
+    id: 'project-3',
+    name: 'Pegasus',
+    description: 'Kahuna UI System designed from scratch',
+    tags: [
+      {
+        name: 'webpack',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'react',
         color: 'green-text-gradient',
       },
       {
@@ -195,43 +268,21 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
-  },
-  {
-    id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    image: pegasusshot,
+    repo: 'https://github.com/JackReis/11ty-landing-page',
+    demo: 'https://incandescent-smakager-9dda4b.netlify.app/',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'TastingRm',
+    description: `A single-page application that allows users to review any of the prototypes I created for TastingRoom.com internal review with version details.`,
     tags: [
       {
         name: 'nextjs',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'webpack',
         color: 'green-text-gradient',
       },
       {
@@ -239,32 +290,32 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    image: tastingrmshot,
+    repo: 'https://github.com/JackReis/tastingrm',
+    demo: 'https://vermillion-fenglisu-d6bc46.netlify.app/welcome.html',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'SendGrid Multichannel Ads',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'Quadrupled (400%) pilot enrollment and achieved executive greenlight for Ads product later acquired by Twilio.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'Facebook Ad Network',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'Google Ad Network',
         color: 'pink-text-gradient',
       },
     ],
-    image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    image: sendgridshot,
+    repo: 'https://github.com/JackReis/eGW_Mobile_Campaign_Page_V2',
+    demo: 'https://celadon-ganache-5f3604.netlify.app/',
   },
 ];
 
