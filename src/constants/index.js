@@ -208,7 +208,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Novel',
-    description: 'TipTap based editor',
+    description: 'WYSIWYG Tiptap based editor using Vercel AI SDK',
     tags: [
       {
         name: 'react',
@@ -231,7 +231,7 @@ const projects = [
     id: 'project-2',
     name: 'Google Home App',
     description:
-      'Google Home App interaction patterns on iOS, Android, Nest Hub and Nest Hub Max devices, including voice commands, stereo speaker pair setup and adaptive assistant volume configuration. Cross-platform (and cross-organizational) collaboration to improve discovery of media types like Meditations and Podcasts on Google smart home devices. ',
+      'Google Home App interaction patterns on iOS, Android, Nest Hub and Nest Hub Max devices, including voice commands, stereo speaker pair setup and adaptive assistant volume configuration. Cross-platform (and cross-organizational) collaboration to improve discovery of media types like Meditations and Podcasts',
     tags: [
       {
         name: 'AfterEffects',
@@ -314,8 +314,8 @@ const projects = [
       },
     ],
     image: sendgridshot,
-    repo: 'https://github.com/JackReis/eGW_Mobile_Campaign_Page_V2',
-    demo: 'https://celadon-ganache-5f3604.netlify.app/',
+    repo: 'https://jack.digital/projects/sendgrid/',
+    demo: 'https://jack.digital/projects/sendgrid/',
   },
 ];
 
