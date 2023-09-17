@@ -231,7 +231,7 @@ const projects = [
     id: 'project-2',
     name: 'Google Home App',
     description:
-      'Google Home App interaction patterns on iOS, Android, Nest Hub and Nest Hub Max devices, including voice commands, stereo speaker pair setup and adaptive assistant volume configuration. Cross-platform (and cross-organizational) collaboration to improve discovery of media types like Meditations and Podcasts',
+      'Google Home App interaction patterns on iOS, Android, Nest Hub and Nest Hub Max devices, including voice commands, stereo speaker pair setup and adaptive assistant volume. Cross-platform (and cross-org) collaboration to improve discovery of media types like Meditations and Podcasts',
     tags: [
       {
         name: 'AfterEffects',
