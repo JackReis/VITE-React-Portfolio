@@ -229,7 +229,7 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Google Home App',
+    name: 'Google Home',
     description:
       'Google Home App interaction patterns on iOS, Android, Nest Hub and Nest Hub Max devices, including voice commands, stereo speaker pair setup and adaptive assistant volume. Cross-platform (and cross-org) collaboration to improve discovery of media types like Meditations and Podcasts',
     tags: [
@@ -252,7 +252,7 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Pegasus',
+    name: 'Pegasus UI',
     description: 'Kahuna UI System designed from scratch',
     tags: [
       {
@@ -274,7 +274,7 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'TastingRm',
+    name: 'TastingRm Micro-site',
     description: `A single-page application that allows users to review any of the prototypes I created for TastingRoom.com internal review with version details.`,
     tags: [
       {
