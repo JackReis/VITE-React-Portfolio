@@ -296,7 +296,7 @@ const projects = [
   },
   {
     id: 'project-5',
-    name: 'SendGrid Multichannel Ads',
+    name: 'SendGrid Ads',
     description:
       'Quadrupled (400%) pilot enrollment and achieved executive greenlight for Ads product later acquired by Twilio.',
     tags: [
