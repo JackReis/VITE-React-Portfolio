@@ -45,11 +45,11 @@ const Hero = () => {
                 Jack Reis
               </span>
             </h1>
-            <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>I am also working on the next version of https://www.github.com/JackReis/Reis, a typeface I created from my father's handwriting.<br>
-              Over the last 12 years, I’ve also held roles as a Design Technologist, System Educator, and Data Viz Lead.<br>
+            <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>I am also working on the next version of https://www.github.com/JackReis/Reis, a typeface I created from my father's handwriting.<br/>
+              Over the last 12 years, I’ve also held roles as a Design Technologist, System Educator, and Data Viz Lead.<br/>
             I blend practical considerations with a natural inclination toward beauty and simplicity to craft valuable, intuitive, and enjoyable digital product experiences for my clients and their communities.<br className="sm:block hidden" />
-            My most scaled project was at Google on the Nest smart home interfaces; Google holds more than 20% of the global smart speaker market and sold 50 million Google Home devices worldwide in 2021.<br>
-              While digital craft holds the majority of my attention, I am also a committed husband, trained yoga instructor, and lifelong learner.<br>
+            My most scaled project was at Google on the Nest smart home interfaces; Google holds more than 20% of the global smart speaker market and sold 50 million Google Home devices worldwide in 2021.<br/>
+              While digital craft holds the majority of my attention, I am also a committed husband, trained yoga instructor, and lifelong learner.<br/>
                 What fulfills me most is finding new, better ways to be and do things.</p>
           </div>
           <div
