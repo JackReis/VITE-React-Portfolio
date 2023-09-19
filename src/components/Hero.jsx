@@ -45,7 +45,7 @@ const Hero = () => {
                 Jack Reis
               </span>
             </h1>
-            <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>I blend practical considerations with a natural inclination toward beauty and simplicity to craft valuable, intuitive, and enjoyable digital product experiences for my clients and their communities.<br className="sm:block hidden" />
+            <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>I create valuable, intuitive, and enjoyable digital product experiences for my clients and their communities.<br className="sm:block hidden" />
             </p>
           </div>
           <div
