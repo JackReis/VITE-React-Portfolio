@@ -1,15 +1,50 @@
-# Portfolio Template
+# Vite React Portfolio
 
-Originally inspired by
+This project is a personal portfolio template powered by [Vite](https://vitejs.dev/) and React. It showcases 3D scenes with Three.js, animations via Framer Motion and styling through Tailwind CSS.
 
-https://github.com/shaqdeff/Portfolio-Template/
+Originally inspired by [shaqdeff/Portfolio-Template](https://github.com/shaqdeff/Portfolio-Template/).
 
+## Getting Started
+
+### Installation
+
+Install the project dependencies:
+
+```bash
+npm install
+```
+
+### Development
+
+Run a local development server:
+
+```bash
+npm run dev
+```
+
+The site will be available at `http://localhost:5173/`.
+
+### Production Build
+
+Generate an optimized build:
+
+```bash
+npm run build
+```
+
+Preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## Live Demo
+
+A deployed version of this template can be seen [here](https://jackareis.com/).
 
 ## License and Attribution
 
-The code in this repository is released under the MIT License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
-
-All projects and experiences included in this portfolio are the result of my own efforts and creativity. Please refrain from presenting them as your own.
+The code in this repository is released under the MIT License. If you use the design largely unmodified, please credit the original author. All projects and experiences presented in the portfolio are the result of the author's work; do not present them as your own.
 
 ## Built With
 
@@ -18,41 +53,7 @@ All projects and experiences included in this portfolio are the result of my own
 - Framer Motion
 - TailwindCSS
 
-## Live Demo
-
-- Click [here](https://jackareis.com/) to view the live demo.
-
-```
-npm install
-```
-
-This will install all the packages and dependencies used in the project.
-
-## Usage
-
-- Run the following command to start a local server:
-
-```
-npm run dev
-```
-
-This will open up the project on a browser on `http://localhost:5173/`
-
-## Build
-
-- To create a production build:
-
-```
-npm run build
-```
-
-- To preview the site as it will appear once deployed:
-
-```
-npm run preview
-```
-
 ## Authors
 
-👤 **Jack Reis**
-👤 **Shaquille Ndunda**
+- **Jack Reis**
+- **Shaquille Ndunda**
